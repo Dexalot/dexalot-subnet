@@ -1,3 +1,7 @@
+# DEPRECATED
+
+Latest Dexalot subnet information such as network updates & upgrades can be tracked from:
+https://github.com/ava-labs/subnet-evm/tree/master/networks
 
 # Subnet EVM
 
